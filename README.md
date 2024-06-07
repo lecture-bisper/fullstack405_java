@@ -32,3 +32,11 @@
    3. 클래스의 필드
    4. 클래스의 메소드
    5. 클래스의 생성자
+5. 5일차 수업 (study05)
+   1. 인스턴스 멤버
+   2. 정적 멤버와 static, 정적 초기화 블록
+   3. 싱글톤 디자인 패턴
+   4. final 필드, 상수 (static final)
+   5. 패키지, import
+   6. 접근제한자 (private, default, public)
+   7. getter/setter

@@ -40,3 +40,9 @@
    5. 패키지, import
    6. 접근제한자 (private, default, public)
    7. getter/setter
+6. 6일차 수업 (study06)
+   1. 연습문제 풀이
+   2. 클래스 상속
+   3. super()
+   4. 오버라이딩
+   5. super.멤버
